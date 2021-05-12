@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jongwooha98
+- 👋 Hi, I’m JongWoo Ha
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React and Bootstrap
 - 💞️ I’m looking to collaborate on javascript projects
