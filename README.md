@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JongWoo Ha
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning React, Bootstrap and many more!
-- 💞️ I’m looking to collaborate on any web developing/publishing projects
+- 💞️ I’m looking to collaborate on any web developing/publishing project
 - 📫 Feel free to contact me via email at jongwoo.ha98@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/jongwooha)
 
 <!---
