@@ -1,9 +1,9 @@
-[Portfolio](https://jongwooha98.github.io/portfolio)
+[Website](https://jongwooha.netlify.app/)
 
 - 👋 Hi, I’m JongWoo Ha
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning React, Bootstrap and many more!
-- 💞️ I’m looking to collaborate on any web developing/publishing project or have fun with javascript!
+- 🌱 I’m currently learning React, Typescript and many more!
+- 💞️ I’m looking to collaborate on any web development projects
 - 📫 Feel free to contact me via email at jongwoo.ha98@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/jongwooha)
 
 <!---
