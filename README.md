@@ -1,5 +1,3 @@
-[Website](https://jongwooha.netlify.app/)
-
 ## WELCOME TO MY GITHUB!
 
 
